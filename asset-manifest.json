@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Kalpas_Shyam/static/css/main.f6c2f2b5.chunk.css",
+    "main.js": "/Kalpas_Shyam/static/js/main.5aa5a903.chunk.js",
+    "main.js.map": "/Kalpas_Shyam/static/js/main.5aa5a903.chunk.js.map",
+    "runtime-main.js": "/Kalpas_Shyam/static/js/runtime-main.f70a2342.js",
+    "runtime-main.js.map": "/Kalpas_Shyam/static/js/runtime-main.f70a2342.js.map",
+    "static/js/2.c3fb46b5.chunk.js": "/Kalpas_Shyam/static/js/2.c3fb46b5.chunk.js",
+    "static/js/2.c3fb46b5.chunk.js.map": "/Kalpas_Shyam/static/js/2.c3fb46b5.chunk.js.map",
+    "index.html": "/Kalpas_Shyam/index.html",
+    "static/css/main.f6c2f2b5.chunk.css.map": "/Kalpas_Shyam/static/css/main.f6c2f2b5.chunk.css.map",
+    "static/js/2.c3fb46b5.chunk.js.LICENSE.txt": "/Kalpas_Shyam/static/js/2.c3fb46b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f70a2342.js",
+    "static/js/2.c3fb46b5.chunk.js",
+    "static/css/main.f6c2f2b5.chunk.css",
+    "static/js/main.5aa5a903.chunk.js"
+  ]
+}
